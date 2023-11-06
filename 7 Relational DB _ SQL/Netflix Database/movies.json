@@ -1,0 +1,12 @@
+[
+    {"name": "8 Mile", "duration": 123, "genre": "Drama", "rating": 9.0},
+    {"name": "The Godfather", "duration": 123, "genre": "Crime", "rating": 9.0},
+    {"name": "300", "duration": 123, "genre": "Action", "rating": 9.0},
+    {"name": "The Godfather: Part II", "duration": 123, "genre": "Crime", "rating": 9.0},
+    {"name": "A silent voice", "duration": 123, "genre": "Romance", "rating": 9.0},
+    {"name": "Happy Potter", "duration": 123, "genre": "Fantasy", "rating": 9.0},
+    {"name": "The Lord of the Rings: The Return of the King", "duration": 123, "genre": "Adventure", "rating": 9.0},
+    {"name": "Ocean's 11", "duration": 123, "genre": "Crime", "rating": 9.0},
+    {"name": "Mario", "duration": 123, "genre": "Adventure", "rating": 9.0},
+    {"name": "John Wick 4", "duration": 123, "genre": "Drama", "rating": 9.0}
+]
